@@ -22,7 +22,7 @@ wget https://carla-releases.s3.eu-west-3.amazonaws.com/Linux/CARLA_0.9.10.1.tar.
 wget https://carla-releases.s3.eu-west-3.amazonaws.com/Linux/AdditionalMaps_0.9.10.1.tar.gz
 ```
 链接（欧洲西区3）似乎失效了。
-到carla项目地址[[https://github.com/carla-simulator/carla/releases]]找到相同的0.9.10.1版本，替换链接为：
+到carla项目地址:[[https://github.com/carla-simulator/carla/releases]] 找到相同的0.9.10.1版本，替换链接为：
 ```shell
 wget https://carla-releases.s3.us-east-005.backblazeb2.com/Linux/CARLA_0.9.10.1.tar.gz
 wget https://carla-releases.s3.us-east-005.backblazeb2.com/Linux/AdditionalMaps_0.9.10.1.tar.gz
